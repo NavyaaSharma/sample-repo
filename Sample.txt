@@ -1,0 +1,5 @@
+this is a sample forking and pushing of a text file 
+
+
+this is my first commit using git cmd line.
+
